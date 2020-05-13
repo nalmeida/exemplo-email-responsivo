@@ -2,6 +2,11 @@
 
 Clonado do repositório: https://github.com/alistapart/salted
 
+## Exemplos
+
+* ✉️ https://exemplo-email-responsivo.netlify.app/sample.html
+* ✉️ https://exemplo-email-responsivo.netlify.app/techbalance.html
+
 ## Ferramentas e outros frameworks
 
 * 🤩 Gerador de templates usando Grunt + SCSS: https://github.com/leemunroe/grunt-email-workflow
