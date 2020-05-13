@@ -19,4 +19,4 @@ Clonado do repositório: https://github.com/alistapart/salted
 
 ---
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2c899e7d-19be-497e-8036-6b36c1d72b48/deploy-status)](https://app.netlify.com/sites/exemplo-email-responsivo/deploys)
+Generosamente hospedado por: [![Netlify Status](https://api.netlify.com/api/v1/badges/2c899e7d-19be-497e-8036-6b36c1d72b48/deploy-status)](https://app.netlify.com/sites/exemplo-email-responsivo/deploys)
